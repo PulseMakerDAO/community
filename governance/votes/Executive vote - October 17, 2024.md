@@ -5,7 +5,7 @@ date: 2024-10-17T00:00:00.000Z
 address: "0xACA9a90C92647e3d3f04095118192DC80C470955"
 
 ---
-# [Executive Proposal] Seal Engine Initialization, RWA Vault Debt Ceiling Housekeeping, Pinwheel DAO Resolution, Aave Revenue Share Payment, Spark Proxy Spell - October 17, 2024
+# [Executive Proposal] Test Yoself Seal Engine Initialization, RWA Vault Debt Ceiling Housekeeping, Pinwheel DAO Resolution, Aave Revenue Share Payment, Spark Proxy Spell - October 17, 2024
 
 The Governance Facilitators, Sidestream, and Dewiz have placed an executive proposal into the voting system. MKR/SKY Holders should vote for this proposal if they support the following alterations to the Sky Protocol.
 
